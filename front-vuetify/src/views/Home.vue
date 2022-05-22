@@ -31,7 +31,7 @@
               >
             </v-avatar>
             <p class="ml-3">
-              Evelyn De Leon Hernandez
+              Eve
             </p>
           </v-card-title>
         </v-img>
@@ -77,7 +77,7 @@ import Encabezado from '@/components/Encabezado.vue'
       messages: [
         {
           from: 'Escuela',
-          message: `Universidad Tecnologica de Salamanca`,
+          message: `Universidad Tecnologica`,
           time: '10:42am',
           color: 'deep-purple lighten-1',
         },
@@ -89,7 +89,7 @@ import Encabezado from '@/components/Encabezado.vue'
         },
         {
           from: 'Grado y Grupo',
-          message: '4 A',
+          message: 'A',
           time: '9:47am',
           color: 'deep-purple lighten-1',
         },
