@@ -9,20 +9,20 @@
           </v-btn>
         </v-card-text>
       <v-card-text class="text-center">
-          Todos los derechos reservados© Evelyn De Leon Hernandez 
+          Todos los derechos reservados© Eve
         <v-spacer></v-spacer>
-          Universidad Tecnologica de Salamanca
+          Universidad Tecnologica 
         <v-spacer></v-spacer>
           Tecnologias de la Informacion, Area Desarrollo de Software Multiplataforma
         <v-spacer></v-spacer>
-          4 "A"
+          Cool
 
       </v-card-text>
 
       <v-divider></v-divider>
 
       <v-card-text class="white--text text-center">
-        {{ new Date().getFullYear() }} — <strong>UTS</strong>
+        {{ new Date().getFullYear() }} — <strong>UT</strong>
       </v-card-text>
     </v-card>
   </v-footer>
